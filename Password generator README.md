@@ -4,12 +4,12 @@ This project features a web application that generates random passwords with cus
 
 ## Features
 
- password length: Users can choose the desired length of the generated password.
-include uppercase: Users can choose to if they want uppercase letters in the  password.
-include numbers: Users can choose to they want numbers in the  password.
-include symbols: Users can choose to "!?." etc in the password.
-generates Password: Pressing generate passowrd will generate a password with random letters to the choice of your liking.
-flexible Design: the application is designed to be responsive and adaptable to multiple screen sizes.
+- password length: Users can choose the desired length of the generated password.
+- include uppercase: Users can choose to if they want uppercase letters in the  password.
+- include numbers: Users can choose to they want numbers in the  password.
+- include symbols: Users can choose to "!?." etc in the password.
+- generates Password: Pressing generate passowrd will generate a password with random letters to the choice of your liking.
+- flexible Design: the application is designed to be responsive and adaptable to multiple screen sizes.
 
 ## Usage
 
